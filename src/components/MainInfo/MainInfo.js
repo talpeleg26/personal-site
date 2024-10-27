@@ -14,7 +14,7 @@ const MainInfo = () => {
                 <IconButton src={'/icons/linkedin.svg'} href={'https://www.linkedin.com/in/tal-peleg-1954701a9/'} />
             </div>
             <p className={styles.bottomLink}>
-                <a href='/'>Source code</a> of this site
+                <a href='https://github.com/talpeleg26/personal-site'>Source code</a> of this site
             </p>
         </div>
     )
