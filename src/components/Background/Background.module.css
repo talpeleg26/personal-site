@@ -1,0 +1,16 @@
+.container {
+    background: linear-gradient(180deg, #1e1e1e, #1e1e1ee0);
+    min-height: 100svh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.star {
+    position: absolute;
+    background-color: #D9D9D9;
+    border-radius: 50%;
+    transition: all 10s;
+    transition-timing-function: linear;
+}
